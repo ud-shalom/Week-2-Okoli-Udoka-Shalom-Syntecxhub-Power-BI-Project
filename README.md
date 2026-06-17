@@ -16,8 +16,6 @@ This repository contains the analysis and dashboard developed for the Week 2 pro
 
 ### 📊 DAX MEASURES#DAXMeasures
 The following measures were created to drive the project insights:
-
-```dax
 Total Sessions = SUM('Website Traffic'[Sessions])
 
 Total Page Views = SUM('Website Traffic'[Page Views])
@@ -26,7 +24,7 @@ Average Bounce Rate = AVERAGE('Website Traffic'[Bounce Rate])
 
 Average Conversion Rate = AVERAGE('Website Traffic'[Conversion Rate])
 
-📈 DASHBOARD FEATURES#DashboardFeatures
+#📈DashboardFeatures
 KPI Monitoring: Tracking core metrics including session duration and bounce rate.
 
 Visual Representation: Interactive charts displaying traffic trends and sources.
