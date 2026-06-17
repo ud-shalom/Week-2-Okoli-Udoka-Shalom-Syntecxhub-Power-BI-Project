@@ -1,8 +1,8 @@
 ![Dashboard Preview](SYNTECXHUB%20DASHBOARD%20WEEK%202.png)
 
-# 🌐 WEBSITE TRAFFIC ANALYSIS DASHBOARD #WebsiteTrafficAnalysisDashboard
+# 🌐 WEBSITE TRAFFIC ANALYSIS DASHBOARD
 
-**Created By: Okoli Udoka Shalom** #OkoliUdokaShalom
+**Created By: Okoli Udoka Shalom** 
 
 ---
 
