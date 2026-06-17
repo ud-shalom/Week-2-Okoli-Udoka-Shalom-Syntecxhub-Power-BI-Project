@@ -24,19 +24,19 @@ Average Bounce Rate = AVERAGE('Website Traffic'[Bounce Rate])
 
 Average Conversion Rate = AVERAGE('Website Traffic'[Conversion Rate])
 
-#📈DashboardFeatures
+### 📈DashboardFeatures
 KPI Monitoring: Tracking core metrics including session duration and bounce rate.
 
 Visual Representation: Interactive charts displaying traffic trends and sources.
 
 Data Modeling: Established relationships between data tables to enable complex reporting.
 
-🔍 KEY INSIGHTS#KeyInsights
+### 🔍KeyInsights
 Performance Analysis: Identified high-performing traffic sources based on session volume.
 
 User Engagement: Derived insights from session duration and bounce rate trends.
 
-🛠 TOOLS USED#ToolsUsed
+### 🛠ToolsUsed
 Power BI
 
 DAX & Power Query
@@ -45,7 +45,7 @@ Data Modeling
 
 Data Visualization
 
-🎯 PROJECT OUTCOME#ProjectOutcome
+### 🎯ProjectOutcome
 This dashboard serves as a comprehensive tool for website traffic reporting, allowing for efficient monitoring and data-driven decision-making.
 
 #PowerBI #DataAnalytics #WebsiteTraffic #DataVisualization #BusinessIntelligence #SyntechxHub
